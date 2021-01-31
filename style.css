@@ -1,0 +1,390 @@
+.handshake{
+    position:relative; 
+    left:100px;
+     top:320px;
+}
+.simpler{
+    position:relative; 
+    left:120px;
+     top:-100px;
+     font-style: Montserrat-Medium;
+     background: transparent url('img/We make it Super Sim.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+.line3{
+  
+    left:100px;
+     top:-300px;
+     background: #000000 0% 0% no-repeat padding-box;
+border-radius: 13px;
+opacity: 0.7;
+position: absolute;
+top: 270px;
+left: 130px;
+width: 236px;
+height: 8px;
+     
+}
+.circle1{
+    position: absolute;
+    top: 100px;
+    left: -150px;
+    width: 10px;
+    height: 8px;
+background: transparent url('img/blob-small.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.logo{
+    position: absolute;
+    top: 0px;
+left: 70px;
+width: 123px;
+height: 123px;
+}
+
+.dots{
+    position: absolute;
+    top: 330px;
+left: 302px;
+width: 430px;
+height: 70px;
+}
+
+.buttonsP{
+    position: absolute;
+    top: 20px;
+left: 730px;
+width: 103px;
+height: 34px;
+text-align: left;
+font: normal normal normal 25px/34px Open Sans;
+font-family: montserrat;
+letter-spacing: 0px;
+font-size: 20px;
+color: #222222;
+opacity: 1;
+}
+
+.buttonS{
+    position: absolute;
+    top: 20px;
+left: 850px;
+
+
+height: 34px;
+text-align: left;
+font: normal normal normal 25px/34px Open Sans;
+letter-spacing: 0px;
+font-size: 20px;
+background-color: white;
+font-family: "montserrat";
+color: #222222;
+background-color: #F2EDF6;
+opacity: 1;
+}
+.bigcircle{
+    position:absolute;
+    top: -250.9068603515625px;
+left: 562px;
+width: 1283px;
+height: 1192px;
+background: transparent url('img/circle.png') 0% 0% no-repeat padding-box;
+transform: matrix(0.12, -0.99, 0.99, 0.15, 0, 0);
+opacity: 1
+}
+.buttonPri{
+    position: absolute;
+    top: 20px;
+left: 990px;
+width: 103px;
+height: 34px;
+text-align: left;
+font: normal normal normal 25px/34px Open Sans;
+
+letter-spacing: 0px;
+font-size: 20px;
+color: #222222;
+opacity: 1;
+}
+.buttonLogin{
+    position: absolute;
+    top: 20px;
+left: 1110px;
+width: 60px;
+height: 34px;
+
+text-align: center;
+font: normal normal normal 25px/34px Open Sans;
+letter-spacing: 0px;
+font-size: 15px;
+box-shadow: 0px 0px 20px #00000033;
+border: 2px solid #663399;
+border-radius: 24px;
+opacity: 1;
+color: #663399;
+opacity: 1;
+}
+.buttonstarted{
+    position: absolute;
+    top: 20px;
+left: 1270px;
+width: 103px;
+height: 34px;
+text-align: center;
+font: normal normal normal 25px/34px Open Sans;
+font-family: 'Open Sans', Arial, sans-serif;
+background-color:#663399 ;
+color: white
+
+
+letter-spacing: 0px;
+font-size: 12px;
+box-shadow: 0px 0px 20px #00000033;
+border: 2px solid #663399;
+border-radius: 24px;
+opacity: 1;
+color: black
+}
+.solwave{
+    position: absolute;
+    top: 800px;
+}
+.rectcash{
+    position: absolute;
+    top: 700px;
+left: 191px;
+width: 450px;
+opacity: 1;
+}
+
+.cashimg{
+    position: absolute;
+    top: 90px;
+left: 60px;
+opacity: 1;
+}
+
+.cashimgtxt{
+    position: absolute;
+    top: 160px;
+    left: 60px;
+}
+.cashimgloan{
+    position: absolute;
+    top: 190px;
+    left: 60px;
+}
+.lowinterest{
+    position: absolute;
+    top: 950px;
+left: 191px;
+width: 450px;
+opacity: 1;
+}
+.lowinterestimg{
+    position: absolute;
+    top: 170px;
+left: 60px;
+width: 450px;
+}
+
+.lowinterestimg1{
+    position: absolute;
+    top: 100px;
+left: 60px;
+width: 450px;
+}
+
+.lowinterestimgtxt{
+    position: absolute;
+    top: 200px;
+left: 60px;
+width: 450px;
+}
+
+.paperwork{
+    position: absolute;
+    top: 1220px;
+left: 191px;
+width: 450px;
+opacity: 1;
+background: transparent;
+}
+
+.paperworkimg{
+    position: absolute;
+    display:block;
+    top: 100px;
+left: 60px;
+width: 450px;
+}
+.paperworktxt{
+    position: absolute;
+    top: 180px;
+left: 60px;
+width: 450px;
+background: url("Home/Rectangle 2.svg") no-repeat;
+
+}
+
+.paperworktxt1{
+    position: absolute;
+    top: 210px;
+left: 59px;
+width: 450px;
+}
+.finances{
+    position: absolute;
+    top: 800px;
+left: 550px;
+width: 450px;
+opacity: 1;
+}
+
+.financeimg{
+    position: absolute;
+    display:block;
+    top: 100px;
+left: 60px;
+width: 450px;
+}
+.financetxt{
+    position: absolute;
+    top: 180px;
+left: 60px;
+width: 450px;
+}
+
+.financetxt1{
+    position: absolute;
+    top: 210px;
+left: 59px;
+width: 450px;
+}
+
+
+.covid{
+    position: absolute;
+    top: 1100px;
+left: 550px;
+width: 450px;
+opacity: 1;
+}
+
+.covidimg{
+    position: absolute;
+    display:block;
+    top: 100px;
+left: 60px;
+width: 450px;
+}
+.covidtxt{
+    position: absolute;
+    top: 180px;
+left: 60px;
+width: 450px;
+}
+
+.covidtxt1{
+    position: absolute;
+    top: 210px;
+left: 59px;
+width: 450px;
+}
+
+.buttonLogin :hover{  
+    background-color: #663399;
+    box-shadow: 10px 0px 20px #00000033;
+    border: 10px solid #663399;
+    border-radius: 65px;
+    width: 100px;
+
+    color: white;
+
+}
+
+    
+  /* mouse over link */
+  a:hover {
+    color:  #663399
+  }
+  
+  /* selected link */
+  a:active {
+    color: black;
+  } 
+
+  .bottomtxt{
+      position: absolute;
+      top: 830px;
+      left: 950px;
+      width: 450px
+  }
+
+  .bottomline{
+    position: absolute;
+    top: 1060px;
+    left: 950px;
+   
+  }
+
+  .account{
+    position: absolute;
+    top: 1260px;
+    left: 950px;
+    width: 170px;
+height: 30px;
+text-align : center;
+justify-content: center;
+box-shadow: 0px 0px 20px #00000033;
+border: 2px solid #663399;
+border-radius: 15px;
+opacity: 1;
+  }
+  
+
+  .accounttxt{
+  
+        position: absolute;
+        top: 1000px;
+        left: 950px;
+       
+    
+  }
+  .account :hover{
+    position: relative;
+  height: 100px;
+  background-color:  #663399;
+  text-align : center;
+  justify-content: center;
+  box-shadow: 0px 0px 20px #00000033;
+  border: 12px solid #663399;
+  border-radius: 35px;
+  opacity: 1;
+  color: white;
+
+}
+.emi{
+    position: absolute;; 
+    left:650px;
+     top:120px;
+}
+
+.paperwork :hover{
+    position:relative;
+    background: transparent url('Home/Rectangle 2.svg') ;
+    opacity: 1;
+   border-radius: 10px;
+   border: 12px;
+    top:-150px;
+    left:0%;
+   
+    
+}
+
+.dots1{
+    position:absolute;
+    left: 900px;
+    top: 463px;
+}
